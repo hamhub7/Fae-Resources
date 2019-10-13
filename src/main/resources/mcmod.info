@@ -1,0 +1,16 @@
+[
+{
+  "modid": "faeresources",
+  "name": "Fae Resources",
+  "description": "A mod about attracting fae .",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hamhub7"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
